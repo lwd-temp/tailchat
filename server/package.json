@@ -62,7 +62,7 @@
     "mime": "^2.5.2",
     "mkdirp": "^1.0.4",
     "moment": "^2.29.1",
-    "mongodb": "4.2.1",
+    "mongodb": "4.17.0",
     "mongoose": "6.1.1",
     "mongoose-findorcreate": "3.0.0",
     "nanoid": "^3.1.23",
